@@ -1,0 +1,38 @@
+
+F
+java:S1148’"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œºŸ¦¯.
+
+java:S1989ƒ"^Handle the following exception that could be thrown by "getDeclaredFields": SecurityException.(¢ºä£ùÿÿÿÿ8”³ì¥¯.
+E
+java:S1148y"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8©§¢¯.
+n
+java:S1989¾"QHandle the following exception that could be thrown by "doDispatch": IOException.(÷—¼8Æ‘ö¦¯.
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÉÿÇ¬8«ˆŠª®.
+g	java:S112u"FDefine and throw a dedicated exception instead of using a generic one.(¸µÛ£øÿÿÿÿ8Ì¸â¥¯.
+u	java:S135M"YReduce the total number of break and continue statements in this loop to use at most one.(í§®ë8¿Ş•¢¯.
+P
+java:S1874d"3Remove this use of "newInstance"; it is deprecated.(€ŸåÖ8ˆù¢¯.
+[	java:S106¬"9Replace this use of System.out or System.err by a logger.(µ”Ñ›ùÿÿÿÿ8œîÒ¦¯.
+~
+java:S1989¹"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(‘›şá8Ôî¦¯.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(î™åıÿÿÿÿ8«ˆŠª®.
+n
+java:S1989Æ"PHandle the following exception that could be thrown by "getWriter": IOException.(ƒÌö‚8Æ×õ¦¯.
+I
+java:S1481È"+Remove this unused "method" local variable.(ÜÜ¯8Æœ÷¦¯.
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¾«Öşüÿÿÿÿ8«ˆŠª®.
+X
+java:S1854È":Remove this useless assignment to local variable "method".(ÜÜ¯8Æœ÷¦¯.
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(™à»É8şÄ­¢¯.
+E
+java:S1148="#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8«ˆŠª®.
+z
+java:S1989"WHandle the following exception that could be thrown by "set": IllegalArgumentException.(ŠŠËşÿÿÿÿ8œºŸ¦¯.
+E
+java:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8«ˆŠª®.
+b	java:S112p"FDefine and throw a dedicated exception instead of using a generic one.(ù©÷³8½¿µ¥¯.
+u
+java:S2226!"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(–¸ÃÜ8íĞ¹¦¯.
